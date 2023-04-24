@@ -1,1 +1,2 @@
-# PublicNodesSnapshots
+# EYWA Project
+# Testnet(PoA) NodesSnapshots
