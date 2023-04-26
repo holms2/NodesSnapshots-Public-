@@ -1,2 +1,2 @@
 # EYWA Project
-# Testnet(PoA) NodesSnapshots
+# Testnet(PoA) Snapshots
