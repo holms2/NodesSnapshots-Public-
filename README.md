@@ -1,1 +1,2 @@
-# (Public)  Information for validators EYWA Oracle [Mainnet-PoA)
+# (Public)  Information for validators EYWA Oracle 
+[Mainnet-PoA]
