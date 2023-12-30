@@ -1,0 +1,1 @@
+curl -s -d chain_id=0 -d block_height=$(curl -s http://127.0.0.1:8081/v1/current_height|jq -r .result) http://127.0.0.1:8081/v1/block|jq -r '"Current epoch: " + .header.height, "Epoch started: " + (.header.timestamp|tonumber|strftime("%B %d %Y %I:%M %Z"))'
