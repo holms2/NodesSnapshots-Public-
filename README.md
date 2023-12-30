@@ -1,1 +1,1 @@
-# PublicNodesSnapshots
+# (Public)  Information for validators EYWA Oracle 
